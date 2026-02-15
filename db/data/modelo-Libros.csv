@@ -1,0 +1,3 @@
+ID,titulo,autor_ID,stock,price,moneda,createdAt,createdBy,modifiedAt,modifiedBy
+201,SAP Cloud Integration Cookbook,101,10,84.99,USD,2013-02-03T00:00:00.000Z,jhoan.ruiz@co.ey.com,2014-01-26T00:00:00.000Z,jhoan.ruiz@co.ey.com
+202,ABAP Cookbook,102,20,84.99,USD,2013-02-03T00:00:00.000Z,jhoan.ruiz@co.ey.com,2014-01-26T00:00:00.000Z,jhoan.ruiz@co.ey.com
